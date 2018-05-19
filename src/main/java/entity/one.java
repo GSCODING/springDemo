@@ -5,4 +5,5 @@ package entity;
  */
 
 public class one {
+    private String id;
 }
